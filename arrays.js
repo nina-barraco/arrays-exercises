@@ -10,7 +10,7 @@ function printReverse(array) {
 //to read a 
 
 
-//write a function isUniform() which takes an array as an argument and return true if all elements int he array are identical
+//write a function isUniform() which takes an array as an argument and return true if all elements int he array are identical. Cool!
 function isUniform(array) {
     var result = true;
     for(var i = 0; i <= array.length - 2; i++) {
